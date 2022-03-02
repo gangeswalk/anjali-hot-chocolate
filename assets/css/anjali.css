@@ -1,0 +1,10 @@
+.anj-border {
+    border: 15px groove #FF69B4;
+}
+
+.anj-title {
+    /* background-color:#FF69B4; */
+    background-color:red;
+    opacity: 90%;
+    border-radius: 10px;
+}

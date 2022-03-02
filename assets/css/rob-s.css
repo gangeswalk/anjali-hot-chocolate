@@ -1,0 +1,86 @@
+/*--------------------------------------------------------------
+# Rob's Colours
+--------------------------------------------------------------*/
+.clr-purple {
+    background-color:purple;
+}
+.clr-violet {
+    background-color: violet;
+}
+.clr-aquamarine {
+    background-color: aquamarine;
+}
+  
+.clr-blue {
+    background-color: blue;
+}
+.clr-blueviolet {
+    background-color: blueviolet;
+}
+
+.clr-indigo {
+    background-color: indigo;
+}
+  
+.clr-pink {
+    background-color: pink;
+}
+  
+.clr-red {
+    background-color: red;
+}
+  
+.clr-orange {
+    background-color: orange;
+}
+  
+.clr-yellow {
+    background-color: yellow;
+}
+  
+.clr-green {
+    background-color: green;
+}
+  
+.clr-teal {
+    background-color: teal;}
+  
+.clr-cyan {
+    background-color: cyan;
+}
+
+.clr-lightgreen {
+    background-color: #18d26e;
+}
+
+.clr-hotpink {
+    background-color: #FF69B4;
+}
+  
+
+  
+  /*--------------------------------------------------------------
+  # Rob's Borders
+  --------------------------------------------------------------*/
+  
+  .bdr-bv-3 {
+      border: 3px solid blueviolet;
+  }
+
+  .bdr-bv-db-7 {
+    border: 7px double blueviolet;
+}
+
+.bdr-bv-rg-10 {
+    border: 10px ridge blueviolet;
+}
+
+  .bdr-b-3 {
+    border: 3px solid blue;
+}
+  
+  
+  
+  
+  
+  
